@@ -8,6 +8,7 @@ This MVP was developed as part of an effort to bridge the gap between **healthca
 🎥 **[Watch the Demo Video](#)** – *A quick walkthrough of MediGuide in action.*
 
 🏆 **Achievement:** Awarded **3rd Place** in the **Manara x AWS "Hack to Hire" Hackathon**, where MediGuide was recognized for its innovation and potential real-world impact.
+![hackathon_winner.jpg](assets/hackathon_winner.jpg)
 
 ---
 
