@@ -31,6 +31,9 @@ It is divided into two main components:
 | AI & Recognition | Image-based medicine identification model |
 | Accessibility | Voice-first interaction design, screen reader support |
 
+
+![ManaraHack.drawio.svg](assets/ManaraHack.drawio.svg)
+
 ---
 
 ## ⚙️ Setup and Installation
