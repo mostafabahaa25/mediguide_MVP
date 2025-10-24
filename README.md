@@ -4,7 +4,11 @@
 Through the integration of **AI-powered image recognition**, a **voice-first interface**, and a **secure medication verification system**, MediGuide reduces the risk of errors such as taking the wrong medication or incorrect dosage — enhancing trust, autonomy, and quality of life.
 
 This MVP was developed as part of an effort to bridge the gap between **healthcare accessibility** and **modern technology**, with a strong emphasis on usability and inclusivity.  
+
+
 **The MVP is designed primarily for Arabic-speaking users, featuring a voice-first interface and localized accessibility experience to ensure seamless interaction and understanding for native speakers.**
+
+
 🎥 **[Watch the Demo Video](https://youtu.be/z5M-RYAIPPc?si=ivBOhDTd_RtAIUOw)** – *A quick walkthrough of MediGuide in action.*
 [![Watch the Demo Video](assets/thumbnail.png)](https://youtu.be/z5M-RYAIPPc?si=ivBOhDTd_RtAIUOw)
 
