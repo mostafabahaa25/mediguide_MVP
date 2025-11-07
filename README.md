@@ -8,7 +8,7 @@ This MVP was developed as part of an effort to bridge the gap between **healthca
 
 **The MVP is designed primarily for Arabic-speaking users, featuring a voice-first interface and localized accessibility experience to ensure seamless interaction and understanding for native speakers.**
 
-*Table of contents*
+# Table of contents
 - [Demo](#watch-the-demo-video--a-quick-walkthrough-of-mediguide-in-action)
 - [overview](#project-overview)
 - [Tech stack](#tech-stack)
