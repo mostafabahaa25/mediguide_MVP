@@ -1,4 +1,4 @@
-# 🩺 MediGuide – Empowering Accessibility in Healthcare
+# MediGuide – Empowering Accessibility in Healthcare
 
 **MediGuide** is an accessibility-first application designed to empower **blind and low-vision individuals** to manage their medications with confidence, safety, and independence.  
 Through the integration of **AI-powered image recognition**, a **voice-first interface**, and a **secure medication verification system**, MediGuide reduces the risk of errors such as taking the wrong medication or incorrect dosage — enhancing trust, autonomy, and quality of life.
@@ -8,16 +8,26 @@ This MVP was developed as part of an effort to bridge the gap between **healthca
 
 **The MVP is designed primarily for Arabic-speaking users, featuring a voice-first interface and localized accessibility experience to ensure seamless interaction and understanding for native speakers.**
 
-
-🎥 **[Watch the Demo Video](https://youtu.be/z5M-RYAIPPc?si=ivBOhDTd_RtAIUOw)** – *A quick walkthrough of MediGuide in action.*
+*Table of contents*
+- [Demo](#watch-the-demo-video--a-quick-walkthrough-of-mediguide-in-action)
+- [overview](#project-overview)
+- [Tech stack](#tech-stack)
+- [setup and Installation](#setup-and-installation)
+  - [Frontend](#frontend)
+  - [Backend](#backend)
+  - [Build For production](#building-for-production)
+- [Vision and Future Work](#vision-and-future-work)
+- [Contributors](#contributors)
+- [Feedback & Collaboration](#feedback--collaboration)
+## **[Watch the Demo Video](https://youtu.be/z5M-RYAIPPc?si=ivBOhDTd_RtAIUOw)** – *A quick walkthrough of MediGuide in action.*
 [![Watch the Demo Video](assets/thumbnail.png)](https://youtu.be/z5M-RYAIPPc?si=ivBOhDTd_RtAIUOw)
 
-🏆 **Achievement:** Awarded **3rd Place** in the **Manara x AWS "Hack to Hire" Hackathon**, where MediGuide was recognized for its innovation and potential real-world impact.
+**Achievement:** Awarded **3rd Place** in the **Manara x AWS "Hack to Hire" Hackathon**, where MediGuide was recognized for its innovation and potential real-world impact.
 ![hackathon_winner.jpg](assets/hackathon_winner.jpg)
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 The project follows a **serverless architecture** powered by AWS, ensuring scalability, maintainability, and low operational overhead.  
 It is divided into two main components:
@@ -27,7 +37,7 @@ It is divided into two main components:
 
 ---
 
-## 🧩 Tech Stack
+## Tech Stack
 
 | Layer | Technologies |
 |-------|---------------|
@@ -42,7 +52,7 @@ It is divided into two main components:
 
 ---
 
-## ⚙️ Setup and Installation
+## Setup and Installation
 
 ### Frontend
 
@@ -83,7 +93,7 @@ It is divided into two main components:
 
 ---
 
-## 🏗️ Building for Production
+## Building for Production
 
 To build and deploy the frontend as a static website:
 
@@ -101,7 +111,7 @@ To build and deploy the frontend as a static website:
 
 ---
 
-## 💡 Vision and Future Work
+## Vision and Future Work
 
 While this version represents an **MVP**, MediGuide sets the foundation for a scalable accessibility platform that can integrate with:
 - Electronic prescription systems  
@@ -111,14 +121,14 @@ While this version represents an **MVP**, MediGuide sets the foundation for a sc
 
 ---
 
-## 👥 Contributors
+## Contributors
 
-- **Mostafa Bahaa** – Backend & ML Engineering, System Architecture  
-- Collaborators – Frontend & UI Development  
+- **Mostafa Bahaa** – Backend & ML Engineering, AWS System Architecture  
+- Collaborators – Backend, Frontend & UI Development  
 
 ---
 
-## 📬 Feedback & Collaboration
+## Feedback & Collaboration
 
 Contributions and feedback are always welcome!  
 If you’re interested in accessibility tech, AWS cloud applications, or AI for social good, feel free to open an issue or reach out.
